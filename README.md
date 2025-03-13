@@ -12,9 +12,9 @@ I'd love to help you with any of the following:
 
 ### 📚 Projects
 #### 📈 Data Analysis
-[USA Gun Violence](https://www.linkedin.com/in/DozieSixtus/) - Analysis on Gun violence in the US using Power BI  
+[USA Gun Violence]((https://github.com/DozieSixtus/Gun-violence-US) - Analysis on gun violence in the US using Power BI  
 #### 🤖 Artificial Intelligence
-[Resume Scorer](https://www.linkedin.com/in/DozieSixtus/) - Use AI to check if a resume matches a job description  
+[Resume Scorer](https://github.com/DozieSixtus/Resume-Scorer) - Use AI to check if a resume matches a job description  
 [Enefit](https://github.com/DozieSixtus/Enefit) - Data analysis and prediction model on energy data  
 
 
@@ -30,4 +30,5 @@ I'd love to help you with any of the following:
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/DozieSixtus/)
+- I share interesting articles on [Medium](https://medium.com/@doziesixtus)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~0113137a0d12eaeea0)
