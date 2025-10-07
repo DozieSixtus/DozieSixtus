@@ -2,11 +2,11 @@
 
 Hello 👋, I'm Dozie. A data consultant with expertise in data analysis, data engineering, machine learning and, most importantly, AI 🤖.  
 I am happy to help you with any of the following:  
-- Querying data using SQL.
-- Generate reports and dashboards using Microsoft Power BI
+- Building data platforms, data warehouses and data pipeline orchestration
+- Data ingestion and extraction
+- Generate Microsoft Power BI reports and dashboards
 - Developing models using machine learning
 - Prompt engineering on Generative AI models
-- Building data platforms, data warehouses and data pipeline orchestration
 
 ### 📚 Projects
 #### 📈 Data Analysis
@@ -17,10 +17,10 @@ I am happy to help you with any of the following:
 
 ### 🛠️ Tools
 - Language: SQL, Python, R, Java
-- Cloud: Azure
+- Cloud: Azure, Oracle
 - Database: SQL Server
 - Visualization: Microsoft Power BI
-- Data warehousing: Microsoft Fabric, Apache Airflow
+- Data warehousing: Microsoft Fabric, DataBricks, Apache Airflow
 - Deployments: Kubernetes
 
 ### 🏅 Certifications
