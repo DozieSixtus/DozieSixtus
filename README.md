@@ -6,7 +6,7 @@ I am happy to help you with any of the following:
 - Generate reports and dashboards using Microsoft Power BI
 - Developing models using machine learning
 - Prompt engineering on Generative AI models
-- Building data platforms, data warehousing and data pipeline orchestration
+- Building data platforms, data warehouses and data pipeline orchestration
 
 ### 📚 Projects
 #### 📈 Data Analysis
@@ -31,4 +31,3 @@ I am happy to help you with any of the following:
 ### 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/DozieSixtus/)
 - I write interesting articles on [Medium](https://medium.com/@doziesixtus)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~0113137a0d12eaeea0)
